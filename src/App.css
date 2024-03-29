@@ -1,0 +1,17 @@
+/* App.css */
+
+body {
+    background-color: #282c34;
+    color: #fff;
+    margin: 0;
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+.app {
+    padding: 15px;
+}
+
+.loding {
+    text-align: center;
+    margin-top: 40px;
+}
